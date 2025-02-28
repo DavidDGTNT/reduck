@@ -2,13 +2,20 @@
 
 export const bangs = [
   {
-    c: "AI",
-    d: "www.t3.chat",
+    c: "Tech",
+    d: "gitlab.daviddgtnt.xyz",
     r: 0,
-    s: "T3 Chat",
-    sc: "AI",
-    t: "t3",
-    u: "https://www.t3.chat/new?q={{{s}}}",
+    s: "DavidDGTNT GitLab",
+    t: "dglab",
+    u: "https://gitlab.daviddgtnt.xyz/search?utf8=\u2713&search={{{s}}}",
+  },
+  {
+    c: "Tech",
+    d: "gitlab.daviddgtnt.xyz",
+    r: 0,
+    s: "DavidDGTNT GitLab repository",
+    t: "dglr",
+    u: "https://gitlab.daviddgtnt.xyz/{{{s}}}",
   },
   {
     c: "Tech",
@@ -30545,7 +30552,6 @@ export const bangs = [
     s: "ebay.in",
     sc: "Online (marketplace)",
     t: "ein",
-    u: "http://shop.ebay.in/?_nkw={{{s}}}&_sacat=See-All-Categories",
   },
   {
     c: "Tech",
@@ -41149,7 +41155,7 @@ export const bangs = [
   },
   {
     c: "Research",
-    d: "tube.geogebra.org",
+    d: "tube.geogebrcoma.org",
     r: 0,
     s: "geogebratube.org",
     sc: "Academic (math/cs)",
