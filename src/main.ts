@@ -12,7 +12,7 @@ function noSearchDefaultPageRender() {
           <input 
             type="text" 
             class="url-input"
-            value="https://reduck.daviddgtnt.xyz?q=%s"
+            value="https://www.daviddgtnt.xyz/reduck?q=%s"
             readonly 
           />
           <button class="copy-button">
