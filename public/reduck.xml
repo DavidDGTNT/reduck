@@ -1,0 +1,12 @@
+<OpenSearchDescription>
+    <ShortName>Reduck</ShortName>
+    <Description>DavidDGTNT's Und*ck</Description>
+    <Url type="text/html" method="get" template="https://www.daviddgtnt.xyz/reduck?q={searchTerms}"/>
+    <Image width="16" height="16">
+        https://mycroftproject.com/updateos.php/id0/unduck-link.ico
+    </Image>
+    <Developer>DavidDGTNT</Developer>
+    <InputEncoding>UTF-8</InputEncoding>
+    <moz:SearchForm>https://www.daviddgtnt.xyz/reduck?q=%s</moz:SearchForm>
+    <Url type="application/opensearchdescription+xml" rel="self" template="https://www.daviddgtnt.xyz/reduck/reduck.xml"/>
+</OpenSearchDescription>
